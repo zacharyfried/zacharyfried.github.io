@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div align="center">
-
 [📄 **Resume**](http://zacharyfried.github.io/files/resume.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [📘 **CV**](http://zacharyfried.github.io/files/cv.pdf)
-
-</div>
 
 ---
 
