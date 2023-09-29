@@ -9,25 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 **Resume**](http://zacharyfried.github.io/files/resume.pdf) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [📘 **CV**](http://zacharyfried.github.io/files/cv.pdf)
+[📄 **Resume**](http://zacharyfried.github.io/files/resume.pdf) - [📘 **CV**](http://zacharyfried.github.io/files/cv.pdf)
 
 ---
 
 
 ## EDUCATION
 
----
-
 **Honors Bachelor of Science, Chemistry**  
 _Oregon State University_  
 Corvallis, Oregon, 2019  
 GPA: 3.66
 
----
-
 ## SKILLS
-
----
 
 Python, R, MySQL, GitHub, AWS, Linux
 
