@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zachary Fried"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zachary Fried"
 description              : &description "Zachary Fried's Portfolio Website"
