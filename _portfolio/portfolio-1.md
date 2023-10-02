@@ -4,4 +4,5 @@ excerpt: "This project delves into the discourse around sexualized cannabis use 
 collection: portfolio
 ---
 
-Text will be added here in the future. 
+_Currently in progress._  
+A preprint or official publication will be made available here once completed.
