@@ -9,7 +9,7 @@ A preprint or official publication will be made available here once completed.  
 
 ### Code:
 
-- [GitHub Repository](https://github.com/TTRUCurtis/rapids-helper-scripts)
+- [Pushshift Toolkit GitHub Repository](https://github.com/zacharyfried/pushshift-toolkit)
 
 
 The following poster was presented on April 19th, 2023, for NIH Postbac Poster Day and was based on a proof-of-concept version of this study. <br/><br/><img src='/images/wsr-poster.png'>
