@@ -19,7 +19,7 @@ redirect_from:
 **Honors Bachelor of Science, Chemistry**  
 _Oregon State University_  
 Corvallis, Oregon, 2019  
-GPA: 3.66
+GPA: 3.66  
 Thesis: [Application of a Weighted Dice Similarity Coefficient (DSC) for Structure Comparison in Radiation Treatment Planning](https://ir.library.oregonstate.edu/concern/honors_college_theses/zg64ts531)
 
 ## SKILLS
