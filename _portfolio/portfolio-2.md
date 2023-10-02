@@ -10,4 +10,4 @@ A preprint or official publication will be made available here once completed.
 ### Publications:
 
 - **Sherman, G., Giorgi, S., Fried, Z., Curtis, B.**  
-  _(2023, expected)._ **Lessons on Conducting Digital Phenotyping Studies for Mental Health and Substance Use.**
+  _(2023, expected)._ Lessons on Conducting Digital Phenotyping Studies for Mental Health and Substance Use.
