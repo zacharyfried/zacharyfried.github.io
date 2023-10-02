@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 **Resume**](http://zacharyfried.github.io/files/resume_oct_23.pdf) - [📘 **CV**](http://zacharyfried.github.io/files/cv_oct_23.pdf)
+**For a downloadable version:**  
+[📄 **Resume**](http://zacharyfried.github.io/files/resume_oct_23.pdf) | [📘 **CV**](http://zacharyfried.github.io/files/cv_oct_23.pdf)  
+
+Alternatively, you can browse the content of my resume below:
 
 ---
 
