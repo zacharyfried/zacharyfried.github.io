@@ -7,6 +7,10 @@ collection: portfolio
 _Currently in progress._  
 A preprint or official publication will be made available here once completed.
 
+### Code:
+
+- [GitHub Repository](https://github.com/TTRUCurtis/rapids-helper-scripts)
+
 ### Publications:
 
 - **Sherman, G., Giorgi, S., Fried, Z., Curtis, B.**  
