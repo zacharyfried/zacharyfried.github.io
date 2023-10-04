@@ -39,7 +39,7 @@ August 2022 - Present, Baltimore, MD
 - Implemented a comprehensive pipeline for ingesting and processing Reddit data, including text normalization, tokenization, dictionary extraction, and utilization of Latent Dirichlet Allocation (LDA).
 - Executed feature extraction, topic modeling, and other NLP tasks on massive corpus of social media data, specifically targeting HIV-related work.
 - Benchmarked performance of a large-scale text analysis platform across different databases and versions, optimizing its codebase for enhanced compatibility.
-- Designed and implemented scripts to transform and standardize smartphone sensor data, facilitating its integration with the RAPIDS digital biomarker analysis platform.
+- Designed and implemented scripts to transform and standardize smartphone sensor data, facilitating its integration with an open source digital biomarker analysis platform.  
 
 **Medical Scribe**  
 _Scribe-X_  
