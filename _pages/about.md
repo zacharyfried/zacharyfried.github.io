@@ -12,6 +12,6 @@ Welcome! I’m currently a Linux Administrator at the National Institute on Drug
 
 In my role as a linux admin, I manage high-performance computing (HPC) servers used in neuroimaging, Natural Language Processing, and computational chemistry research. As I pursue a Bachelor of Science in Computer Science, I am aiming to expand my skills to transition to the field of software engineering. 
 
-For more details, please explore my [projects](https://zacharyfried.github.io/portfolio) and [resume/CV](https://zacharyfried.github.io/cv).  
+For more details, please explore my [projects](https://zacharyfried.github.io/portfolio) and [resume](https://zacharyfried.github.io/cv).  
   
 <img src='/images/email_address.png'>

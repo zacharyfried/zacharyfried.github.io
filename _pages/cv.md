@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume & CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,53 +10,69 @@ redirect_from:
 {% include base_path %}
 
 **For a downloadable version:**  
-[📄 **Resume**](http://zacharyfried.github.io/files/resume_oct_23.pdf) | [📘 **CV**](http://zacharyfried.github.io/files/cv_oct_23.pdf)  
+[📄 **Resume**](http://zacharyfried.github.io/files/resume_sep_24.pdf)
 
 Alternatively, you can browse the content of my resume below:
 
 ---
 
 
-## EDUCATION
+## Education
 
-**Honors Bachelor of Science, Chemistry**  
-_Oregon State University_  
-Corvallis, Oregon, 2019  
-GPA: 3.66  
-Thesis: [Application of a Weighted Dice Similarity Coefficient (DSC) for Structure Comparison in Radiation Treatment Planning](https://ir.library.oregonstate.edu/concern/honors_college_theses/zg64ts531)
+- **University of Maryland**  
+  *August 2024 - Present*  
+  BS, Computer Science (2nd Bachelor’s degree)  
+  College Park, MD
 
-## SKILLS
+- **Oregon State University**  
+  *September 2015 - September 2019*  
+  BS, Chemistry  
+  Corvallis, Oregon  
+  GPA: 3.66
 
-Python, R, MySQL, GitHub, AWS, Linux
+## Experience
 
-## EXPERIENCE
+- **Axle Informatics/National Institutes of Health (NIH)**  
+  *May 2024 - Present*  
+  Linux Administrator and Data Processor (Contractor)  
+  Baltimore, MD  
+  - Automated backups, monitored file system integrity, and optimized data processing by developing custom Bash, Python, and MySQL scripts, resolving system overloads and improving operational efficiency.
+  - Deployed and managed Docker containers to host web applications and authentication services, boosting system scalability.
+  - Authored technical documentation, including installation guides and system configurations, adopted by multiple research labs to enhance efficiency.
 
----
+- **National Institute on Drug Abuse (NIDA/NIH)**  
+  *August 2022 - May 2024*  
+  Postbaccalaureate Research Fellow  
+  Baltimore, MD  
+  - Engineered a scalable data pipeline to process large-scale Reddit datasets, implementing text normalization, tokenization, and dictionary extraction techniques to ensure high data quality.
+  - Optimized data transformation scripts, standardizing smartphone sensor data for seamless integration with a digital biomarker analysis platform.
+  - Developed a program utilizing multiple APIs, including OpenAI’s API, to automate literature review and meta-analysis paper selection processes.
 
-**IRTA Postbaccalaureate Fellow**  
-_The National Institute on Drug Abuse (NIDA)_  
-August 2022 - Present, Baltimore, MD
-- Implemented a comprehensive pipeline for ingesting and processing Reddit data, including text normalization, tokenization, dictionary extraction, and utilization of Latent Dirichlet Allocation (LDA).
-- Executed feature extraction, topic modeling, and other NLP tasks on massive corpus of social media data, specifically targeting HIV-related work.
-- Benchmarked performance of a large-scale text analysis platform across different databases and versions, optimizing its codebase for enhanced compatibility.
-- Designed and implemented scripts to transform and standardize smartphone sensor data, facilitating its integration with an open source digital biomarker analysis platform.  
+- **Cell, Developmental and Cancer Biology - OHSU**  
+  *Summer 2018*  
+  Undergraduate Intern  
+  Portland, OR  
+  - Added functionality to an R package to compare 3D structures in cancer treatment plans using the Sørensen-Dice coefficient, improving accuracy and efficiency in radiation oncology software.
 
-**Medical Scribe**  
-_Scribe-X_  
-September 2019 - July 2022, Portland, OR
-- Gained expertise in real-time data documentation and adaptation to complex medical software systems.
-- Collaborated with healthcare professionals to ensure accurate EHR entries, highlighting proficiency in translating user requirements into tasks.
-- Demonstrated rapid assimilation of technical knowledge by frequently adapting to new medical specialties.
+- **Providence Portland Medical Center, Earle A. Chiles Research Institute**  
+  *Summer 2016*  
+  Undergraduate Intern  
+  Portland, OR  
+  - Created a bioinformatics workflow using the Galaxy platform to analyze genomic data.
 
-**CDCB Summer Intern**  
-_Oregon Health & Science University_  
-June 2018 - September 2018, Portland, OR
-- Added functionality to an R package for radiation oncology treatment planning that evaluates similarity between 3D structures based on position and relative radiation dose with use of the Sørensen-Dice coefficient.
-- Authored an Honors College Thesis from this work.
+## Skills
 
-**Summer Research Intern**  
-_Earle A. Chiles Research Institute_  
-June 2016 - August 2016, Portland, OR
-- Engineered a bioinformatics workflow in Galaxy targeting aberrant long non-coding RNAs in liver cancer mouse models.
-- Supported a postdoc researcher in the care, observation, and data collection for mouse model studies.
-- Assisted with cell culture maintenance, processing, and other related laboratory tasks.
+- **Programming Languages**: Bash, Python, R (including packages and libraries such as Pandas, Numpy, Matplotlib, Seaborn for Python; dplyr, ggplot2, readr, stringr, lubridate, jsonlite for R)
+- **Database Management**: Proficient in SQL with experience in MySQL, SQLite, MariaDB
+- **Development Tools**: Experienced with Git, GitHub, Docker, AWS
+
+## Publications  
+**C = Conference, J = Journal, S = In Submission, T = Thesis**
+
+- **[J.1]** S. Giorgi, T. Liu, K. Isman, Z. Fried, J. Sedoc, B. Curtis. (2024). Evaluating generative AI responses to real-world drug-related questions. In *Psychiatry Research*, Vol. 339, Article 116058.
+  
+- **[J.2]** S. Giorgi, T. Liu, A. Aich, K. Isman, G. Sherman, Z. Fried, J. Sedoc, L.H. Ungar. (2024). Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases. In *arXiv preprint* arXiv:2406.14462.
+
+- **[C.1,2]** Z. Fried, et al. (2024). Exploring Sexualized Cannabis Use: A Linguistic Analysis of User Experiences. Presented at the *International Conference on Computational Social Science (IC2S2)*, University of Pennsylvania, July 18-20, 2024; the *International AAAI Conference on Web and Social Media (ICWSM)*, June 3–6, 2024, Buffalo, New York, USA; and the *College on Problems of Drug Dependence (CPDD)*.
+
+- **[T.1]** Z. Fried. (2019). *Application of a Weighted Dice Similarity Coefficient (DSC) for Structure Comparison in Radiation Treatment Planning*. Bachelor’s thesis, Honors College, Oregon State University.
