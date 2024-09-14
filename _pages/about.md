@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m currently a Linux Administrator at the National Institute on Drug Abuse (NIDA) and a Computer Science student at the University of Maryland. While my educational background began with a BS in chemistry, my interests have shifted towards technology and software development.
+Welcome! I am currently a Linux Administrator at the National Institute on Drug Abuse (NIDA) and a Computer Science student at the University of Maryland. Although my educational background began with a Bachelor of Science in Chemistry, my focus has shifted toward technology and software development.
 
-In my role as a linux admin, I manage high-performance computing (HPC) servers used in neuroimaging, Natural Language Processing, and computational chemistry research. As I pursue a Bachelor of Science in Computer Science, I am aiming to expand my skills to transition to the field of software engineering. 
+As a Linux Administrator, I manage high-performance computing (HPC) servers supporting research in neuroimaging, natural language processing, and computational chemistry. While pursuing a Bachelor of Science in Computer Science, I am working to expand my skills with the goal of transitioning into the field of software engineering.
 
 For more details, please explore my [projects](https://zacharyfried.github.io/portfolio) and [resume](https://zacharyfried.github.io/cv).  
   
-<img src='/images/email_address.png'>
+<img src='/images/umd_email_address.png'>
