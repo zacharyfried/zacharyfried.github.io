@@ -60,5 +60,3 @@ June 2016 - August 2016, Portland, OR
 - Engineered a bioinformatics workflow in Galaxy targeting aberrant long non-coding RNAs in liver cancer mouse models.
 - Supported a postdoc researcher in the care, observation, and data collection for mouse model studies.
 - Assisted with cell culture maintenance, processing, and other related laboratory tasks.
-
-
