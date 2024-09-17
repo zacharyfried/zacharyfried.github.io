@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **For a downloadable version:**  
-[📄 **Resume**](http://zacharyfried.github.io/files/resume_sep_24.pdf)
+[📄 **Resume**](http://zacharyfried.github.io/files/zachary_fried_resume_sept24.pdf)
 
 Alternatively, you can browse the content of my resume below:
 
