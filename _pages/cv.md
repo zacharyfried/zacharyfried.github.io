@@ -24,7 +24,7 @@ _August 2024 – Present_
 - GPA: 4.00
 
 ### Oregon State University 
-**Corvallis, Oregon**  
+**Corvallis, OR**  
 **BS, Chemistry**  
 _September 2015 – September 2019_
 
