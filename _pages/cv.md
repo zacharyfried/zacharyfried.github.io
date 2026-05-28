@@ -98,8 +98,6 @@ _Summer 2016_
 ## Skills
 
 - **Programming Languages:** Java, Python, Bash, R, SQL, JavaScript, C#, C, Rust, OCaml
-  (Including notable libraries like Pandas, NumPy, Matplotlib, Seaborn for Python;  
-  dplyr, ggplot2, readr, stringr, lubridate, jsonlite for R)
 
 - **Database Management:**  
   Proficient in SQL with experience in MySQL, SQLite, MariaDB
