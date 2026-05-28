@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Linux Administrator at the National Institute on Drug Abuse (NIDA) and a Computer Science student at the University of Maryland. Although my educational background began with a Bachelor of Science in Chemistry, my focus has shifted toward technology and software development.
+Welcome! I'm Zachary Fried, a Computer Science student at the University of Maryland and an incoming PACE Software Engineering Intern at Textron Specialized Vehicles for Summer 2026.
 
-As a Linux Administrator, I manage high-performance computing (HPC) servers supporting research in neuroimaging, natural language processing, and computational chemistry. While pursuing a Bachelor of Science in Computer Science at UMD, I am working to expand my skills with the goal of transitioning into the field of software engineering.
+I'm focused on software engineering, with interests in backend systems and data-heavy tools. My background includes research and technical operations work at NIH/NIDA, where I supported Linux-based research infrastructure and built scripts, data pipelines, and automation around large research datasets.
 
-For more details, please explore my [projects](https://zacharyfried.github.io/portfolio), [resume](https://zacharyfried.github.io/cv), and [Google Scholar profile](https://scholar.google.com/citations?user=ZYNnESUAAAAJ&hl=en).
+This site collects my software projects, research/publication work, and resume.
+
+For more details, please explore my [projects](https://zacharyfried.github.io/portfolio), [resume](https://zacharyfried.github.io/cv), [GitHub](https://github.com/zacharyfried), and [LinkedIn](https://www.linkedin.com/in/friedz/).
   
 <img src='/images/umd_email_address.png'>

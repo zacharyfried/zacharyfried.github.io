@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-**For a downloadable version:**  
-[📄 **Resume**](http://zacharyfried.github.io/files/resume_feb_25.pdf)
+**Download:** [Resume PDF](http://zacharyfried.github.io/files/resume_feb_25.pdf)
 
-Alternatively, you can browse the content of my resume below:
+Below is a web version of my resume, focused on software engineering, research/data tooling, and technical infrastructure experience.
 
 
 ## Education
@@ -31,6 +30,12 @@ _September 2015 – September 2019_
 ---
 
 ## Experience
+
+### Textron Specialized Vehicles
+**PACE Software Engineering Intern**<br>
+_Summer 2026_
+
+- Incoming software engineering intern expected to work with server-side systems supporting Android-facing product functionality.
 
 ### Axle Informatics / National Institutes of Health (NIH) 
 **Baltimore, MD**  
