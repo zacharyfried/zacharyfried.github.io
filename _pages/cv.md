@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download:** [Resume PDF](http://zacharyfried.github.io/files/resume_feb_25.pdf)
+**Download:** [Resume PDF](http://zacharyfried.github.io/files/zachary_fried_resume_2026_swe.pdf)
 
 Below is a web version of my resume, focused on software engineering, research/data tooling, and technical infrastructure experience.
 
@@ -20,7 +20,7 @@ Below is a web version of my resume, focused on software engineering, research/d
 **College Park, MD**  
 **BS, Computer Science (2nd Bachelor's degree)**  
 _August 2024 – Present_  
-- GPA: 4.00
+- GPA: 3.97
 
 ### Oregon State University 
 **Corvallis, OR**  
@@ -33,7 +33,7 @@ _September 2015 – September 2019_
 
 ### Textron Specialized Vehicles
 **PACE Software Engineering Intern**<br>
-_Summer 2026_
+_Summer 2026, Augusta, GA_
 
 - Incoming software engineering intern expected to work with server-side systems supporting Android-facing product functionality.
 
@@ -97,8 +97,7 @@ _Summer 2016_
 
 ## Skills
 
-- **Programming Languages:**  
-  Java, Bash, Python, R  
+- **Programming Languages:** Java, Python, Bash, R, SQL, JavaScript, C#, C, Rust, OCaml
   (Including notable libraries like Pandas, NumPy, Matplotlib, Seaborn for Python;  
   dplyr, ggplot2, readr, stringr, lubridate, jsonlite for R)
 
