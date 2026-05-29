@@ -11,9 +11,6 @@ redirect_from:
 
 **Download:** [Resume PDF](http://zacharyfried.github.io/files/zachary_fried_resume_2026_swe.pdf)
 
-Below is a web version of my resume, focused on software engineering, research/data tooling, and technical infrastructure experience.
-
-
 ## Education
 
 ### University of Maryland 
@@ -40,7 +37,7 @@ _Summer 2026, Augusta, GA_
 ### Axle Informatics / National Institutes of Health (NIH) 
 **Baltimore, MD**  
 **Linux Administrator and Data Processor (Contractor)**  
-_May 2024 – Present_
+_May 2024 – August 2025_
 
 - Automated backups, monitored file system integrity, and optimized data processing by developing custom Bash, Python, and MySQL scripts, resolving system overloads and improving operational efficiency.
 - Deployed and managed Docker containers to host web applications and authentication services, boosting system scalability.
