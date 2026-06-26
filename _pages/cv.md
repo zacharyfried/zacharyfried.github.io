@@ -32,7 +32,10 @@ _September 2015 – September 2019_
 **PACE Software Engineering Intern**<br>
 _Summer 2026, Augusta, GA_
 
-- Software engineering intern building internal web tooling with JavaScript, C#, SQL, Git, and Azure DevOps.
+- Build and browser-test an internal configuration web application with another intern using HTML, CSS, Knockout.js, JavaScript, C#, SQL, Git, and Azure DevOps.
+- Implement guided workflow logic that maps user selections to required backend outputs, reducing reliance on manual reference materials.
+- Completed the initial requested feature scope in under two weeks, ahead of management expectations, and partnered with stakeholders to define additional requirements.
+- Investigate and document integration points for a C#/.NET backend feature in an existing fleet-management platform.
 
 ### Axle Informatics / National Institutes of Health (NIH) 
 **Baltimore, MD**  
