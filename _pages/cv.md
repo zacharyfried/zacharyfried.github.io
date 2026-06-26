@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download:** [Resume PDF](http://zacharyfried.github.io/files/zachary_fried_resume_2026_swe.pdf)
+**Download:** [Resume PDF](http://zacharyfried.github.io/files/Zachary_Fried_Public_Resume.pdf)
 
 ## Education
 
@@ -32,7 +32,7 @@ _September 2015 – September 2019_
 **PACE Software Engineering Intern**<br>
 _Summer 2026, Augusta, GA_
 
-- Incoming software engineering intern expected to work with server-side systems supporting Android-facing product functionality.
+- Software engineering intern building internal web tooling with JavaScript, C#, SQL, Git, and Azure DevOps.
 
 ### Axle Informatics / National Institutes of Health (NIH) 
 **Baltimore, MD**  
