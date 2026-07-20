@@ -210,12 +210,6 @@ a.email-link {
   font-size: 14px;
   margin-bottom: 8px;
 }
-.smallprint {
-  color: var(--muted);
-  font-size: 13px;
-  margin: 0;
-}
-
 @media (max-width: 540px) {
   header.hero { padding-top: 48px; }
   h1 { font-size: 29px; }
